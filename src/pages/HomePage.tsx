@@ -50,7 +50,7 @@ const HomePage: React.FC = () => {
               className="relative"
             >
               <img 
-                src="gambar/desa1.PNG"
+                src="./gambar/desa1.PNG"
                 alt="Sibuluan Indah" 
                 className="w-full h-96 object-cover rounded-lg shadow-xl"
               />
